@@ -1,3 +1,3 @@
 <?php
 
-define('ENDPOINT_URL', 'http://allegro.pl.jankes.dev1.dc2/test_endpoint.php');
+define('ENDPOINT_URL', 'http://localhost/test_endpoint.php');
