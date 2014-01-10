@@ -1,0 +1,13 @@
+Project to reproduce Guzzle curl_multi_select timeout issue
+
+Usage:
+
+- clone repo
+- install composer dependencies
+- put test_endpoint.php somwhere under document root
+- edit config.php to point to the url of test_endpoint.php
+
+Run scripts:
+- curl.php - to see regular curl behaviour
+- curl_multi.php - to see curl_multi behaviour
+- guzzle.php - to see guzzle behaviour
